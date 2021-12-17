@@ -8,3 +8,5 @@ I am a student Msc. RW/CSE ETH Zurich living in switzerland.
 
 - https://github.com/maede97/AutodiffPythonCpp: Automatic differentiation of a function written in python and code generation for C++.
 - https://github.com/SimiPro/DCA: Differentiable Collision Avoidance
+
+![maede97 Github Stats](https://github-readme-stats.vercel.app/api?username=maede97&theme=onedark)
