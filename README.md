@@ -1,4 +1,4 @@
-# maede97 - Matthias Busenhart
+# maede97 - Matthias Hüppi
 
 Hi and welcome to my Github page!
 
