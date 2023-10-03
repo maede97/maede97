@@ -2,7 +2,7 @@
 
 Hi and welcome to my Github page!
 
-I am a student Msc. RW/CSE ETH Zurich living in switzerland.
+I am a former student Msc. RW/CSE ETH Zurich living in switzerland.
 
 ## Selected Projects
 
